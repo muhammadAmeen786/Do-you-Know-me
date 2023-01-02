@@ -35,6 +35,7 @@ var questionArray = [
 ]
 function check(question, answer) {
   var userAns = readLine.question(question + "\n");
+  userAns = userAns.toLowerCase();
   if (userAns == answer) {
     console.log("Cool go Ahead");
     score = score + 1;
