@@ -14,7 +14,7 @@ var fscore = 0;
 var questionArray = [
   {
     question: "What is my full name  (Mohd Ameen or Muhammad Ameen)",
-    ans: "Muhammad Ameen"
+    ans: "muhammad ameen"
   },
   {
     question: "Where from am I (j&k or Delhi)",
@@ -22,11 +22,11 @@ var questionArray = [
   },
   {
     question: "What am I (Engineer or Doctor)",
-    ans: "Engineer"
+    ans: "engineer"
   },
   {
     question: "What is my favv Game (Cricket or Football)",
-    ans: "Cricket"
+    ans: "cricket"
   },
   {
     question: "Am i single (yes/no)",
